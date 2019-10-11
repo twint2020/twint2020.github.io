@@ -1,3 +1,42 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Ted Wint's Personal Website"
+theme = "hugo-coder"
+
+[params]
+    author = "Ted Wint"
+    info = "Enter info text here."
+    description = "Ted Wint's Personal Website"
+    keywords = "personal"
+    avatarurl = "images/avatar.jpg"
+    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/img/favicon-16x16.png"
+    footercontent = "Enter footer text here."
+    hidecredits = true
+    hidecopyright = true
+
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/johndoe/"
+[[params.social]]
+    name = "Gitlab"
+    icon = "fab fa-gitlab fa-2x"
+    weight = 2
+    url = "https://gitlab.com/johndoe/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 3
+    url = "https://twitter.com/johndoe/"
+
+# Menu links
+[[menu.main]]
+    name = "About"
+    weight = 1
+    url = "/about/"
+[[menu.main]]
+    name = "Resume"
+    weight = 2
+    url  = "/resume/"
