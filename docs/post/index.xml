@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on TED WINT</title>
-    <link>http://clawler.github.io/ted-personal-site/post/</link>
+    <link>https://clawler.github.io/ted-personal-site/post/</link>
     <description>Recent content in Posts on TED WINT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://clawler.github.io/ted-personal-site/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://clawler.github.io/ted-personal-site/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://clawler.github.io/ted-personal-site/post/my-first-post/</link>
+      <link>https://clawler.github.io/ted-personal-site/post/my-first-post/</link>
       <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://clawler.github.io/ted-personal-site/post/my-first-post/</guid>
+      <guid>https://clawler.github.io/ted-personal-site/post/my-first-post/</guid>
       <description>Hello world! This is my first post.
 We can add content here.</description>
     </item>
     
     <item>
       <title>My Second Post</title>
-      <link>http://clawler.github.io/ted-personal-site/post/my-second-post/</link>
+      <link>https://clawler.github.io/ted-personal-site/post/my-second-post/</link>
       <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://clawler.github.io/ted-personal-site/post/my-second-post/</guid>
+      <guid>https://clawler.github.io/ted-personal-site/post/my-second-post/</guid>
       <description>Here is my second post!</description>
     </item>
     
