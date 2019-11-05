@@ -32,7 +32,7 @@ googleAnalytics = ""
     weight = 3
 
 [[menu.main]]
-    url = "/PORTFOLIO/"
+    url = "/portfolio/"
     name = "PORTFOLIO"
     weight = 4
 
