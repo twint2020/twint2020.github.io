@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TED WINT</title>
+    <link>http://clawler.github.io/ted-personal-site/</link>
+    <description>Recent content on TED WINT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://clawler.github.io/ted-personal-site/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://clawler.github.io/ted-personal-site/post/my-first-post/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://clawler.github.io/ted-personal-site/post/my-first-post/</guid>
+      <description>Hello world! This is my first post.
+We can add content here.</description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>http://clawler.github.io/ted-personal-site/post/my-second-post/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://clawler.github.io/ted-personal-site/post/my-second-post/</guid>
+      <description>Here is my second post!</description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>http://clawler.github.io/ted-personal-site/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://clawler.github.io/ted-personal-site/portfolio/</guid>
+      <description>Check out some of the articles for &amp;ldquo;Let&amp;rsquo;s Wine Down&amp;rdquo; that I wrote:
+ 2019-10-29 - Canned Wine Can be a Better Alternative than Bottled Wine 2019-10-14 - Wine Night Is a Cultural Phenomenon that Brings People Together 2019-09-30 - Wines Can Take the Edge Off Midterm Season 2019-09-05 - Introduce Wine at Tailgates 2019-08-21 - There&amp;rsquo;s a Wine to Fit Every Post-Summer Slump  </description>
+    </item>
+    
+  </channel>
+</rss>
