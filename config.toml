@@ -1,4 +1,5 @@
-baseURL = "http://example.com/"
+baseURL = "http://clawler.github.io/ted-personal-site"
+publishDir = "docs"
 languageCode = "en-us"
 title = "TED WINT"
 theme = "minimal"
